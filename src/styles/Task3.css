@@ -1,0 +1,48 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 60px;
+
+}
+.status{
+    width: 250px;
+    height: 70px;
+    border: 1px solid rgb(58, 58, 220);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    font-size: 1.3rem;
+}
+.pass{
+    color: rgb(37, 229, 37);
+}
+.fail{
+    color: rgb(227, 69, 69);
+}
+
+.marks{
+    display: flex;
+    height: 50px;
+    padding: 10px;
+    gap: 15px;
+    align-items: center;
+    border: 1px solid rgb(41, 41, 195);
+    border-radius: 10px;
+}
+
+.btn{
+    padding: 5px 20px;
+    background-color: rgb(63, 69, 236);
+    border: 1px solid rgb(156, 148, 148);
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 1.2rem;
+}
+.btn:hover{
+    background-color: rgb(93, 98, 235);
+}
