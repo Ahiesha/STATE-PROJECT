@@ -4,12 +4,12 @@ import "../styles/Task1.css"
 
 import Item from './Item'
 import Cart from './Cart'
-let im = "https://as1.ftcdn.net/v2/jpg/04/63/64/00/1000_F_463640059_J3TMAmOkM4Ri0dkSBoOIGVxmyOLXuaQt.jpg"
+let im = "https://www.kfcpakistan.com/images/43a95f10-ffaa-11ed-b673-4121381f04c6-CrispyDuoBox-2023-05-31115706.png"
 let product = {
-  name:"MacBook Air",
+  name:"Crispy Duo Box",
   id:101,
-  des:"The best macbook in market at lowest price.",
-  price:50000,
+  des:"The best Deal in this city at lowest price.",
+  price:1250,
   image:im,
 }
 

@@ -5,6 +5,7 @@ import Task2 from "./components/Task2.jsx";
 import Task3 from "./components/Task3.jsx";
 import Task4 from './components/Task4.jsx';
 import Header from "./components/Header.jsx";
+//import Footer from './components/Footer.jsx';
 
 
 
@@ -16,6 +17,7 @@ import Header from "./components/Header.jsx";
     
     <Router>
     <Header />
+    
     
     
       <Routes>

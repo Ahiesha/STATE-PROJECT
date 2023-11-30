@@ -6,21 +6,21 @@ import Item from './Item.jsx';
 
 
 
-let im = "https://img.freepik.com/premium-photo/modern-laptop-computer-with-blank-screen-desk_488220-61299.jpg?w=740"
+let im = "https://www.kfcpakistan.com/images/b527b2b0-87a7-11ee-8f64-8969f6610645-thumbnail-2-good-min_variant_0-2023-11-20132126.png"
 
 let products = [{
-  name:"MacBook Air",
+  name:"2 Zingers,2 Drinks,1 Fries",
   id:101,
-  des:"The best macbook in market at lowest price.",
-  price:60000,
+  des:"The best Deal in this city at lowest price.",
+  price:2000,
   image:im,
   qty:0
 },
 {
-  name:"Hp Laptop",
+  name:"2 Zingers,2 Drinks,1 Fries",
   id:102,
-  des:"The best Dell Laptop in market at lowest price.",
-  price:20000,
+  des:"The best Deal in this city at lowest price.",
+  price:2000,
   image:im,
   qty:0
 },]

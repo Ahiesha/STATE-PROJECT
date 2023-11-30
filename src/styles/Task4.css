@@ -1,0 +1,38 @@
+.container{
+    display: flex;
+    flex-direction: column;
+   
+}
+
+.main-img{
+    border: 1px solid black;
+}
+.main-image{
+    width: 500px;
+}
+.img-container{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.small-img{
+    padding: 10px;
+    cursor: pointer;
+    width: 100px;
+    border: 1px solid black;
+}
+.img-icon{
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+}
+.icon-con{
+    height: 50px;
+    width: 50px;
+  
+}
+
+.disable{
+    display: none;
+}
